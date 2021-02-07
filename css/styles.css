@@ -131,3 +131,70 @@ img {
   padding-left: 0;
 }
 
+/* お問い合わせ
+------------------------------------------------ */
+
+.wrapper h1 {
+  text-align: center;
+  padding: 44px 0;
+  font-weight: normal;
+  font-size: 24px;
+}
+
+form div {
+  margin-bottom: 14px;
+}
+
+form {
+  width: 60%;
+  max-width: 480px;
+  margin: auto;
+  padding: 20px 0;
+}
+
+*, :after, :before {
+  box-sizing: border-box;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 1.125rem;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+  padding: 10px;
+  border: 1px black solid;
+  border-radius: 5px;
+  background: rgba(255,255,255,.5);
+  font-size: 1rem;
+}
+
+input[type="text"],
+input[type="email"] {
+  width: 100%;
+  max-width: 240px;
+}
+
+textarea {
+  width: 100%;
+  max-width: 480px;
+  height: 6rem;
+}
+
+input[type="submit"] {
+  border: none;
+  cursor: pointer;
+  line-height: 1;
+  padding: 10px;
+  background-color: black;
+  color: white;
+}
+
+div input {
+  text-align: center;
+}
+
+

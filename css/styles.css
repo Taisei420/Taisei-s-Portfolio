@@ -198,3 +198,12 @@ div input {
 }
 
 
+/* フッター
+------------------------------------------ */
+
+footer {
+  padding: 15px 0;
+  background: #323135;
+  color: #98969c;
+  text-align: center;
+}

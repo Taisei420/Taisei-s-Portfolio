@@ -37,6 +37,11 @@ img {
   justify-content: space-between;
 }
 
+.page-header > h1 {
+  font-weight: normal;
+}
+
+
 .wrapper {
   max-width: 1100px;
   margin: 0 auto;
@@ -134,7 +139,7 @@ img {
 /* お問い合わせ
 ------------------------------------------------ */
 
-.wrapper h1 {
+.contacts h1 {
   text-align: center;
   padding: 44px 0;
   font-weight: normal;

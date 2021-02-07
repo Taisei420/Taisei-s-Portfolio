@@ -104,3 +104,30 @@ img {
 .features section {
   padding-bottom: 64px;
 }
+
+/* スキル
+--------------------------------------------- */
+
+.skills {
+  /* background: #f2f2f3; */
+  height: 100%;
+  margin: 30px;
+  padding: 50px;
+}
+
+.skills > h1 {
+  text-align: center;
+  padding: 44px 0;
+  font-weight: normal;
+}
+
+.skills p {
+  text-align: center;
+}
+
+.column {
+  text-align: center;
+  list-style: none;
+  padding-left: 0;
+}
+
